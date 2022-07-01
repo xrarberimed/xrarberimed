@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ebrar.. I'm a Student 👩‍🎓 , Computer Engineer 💻 ..
 - 👀 I’m interested in iOS development 📱 🍎
 - 🌱 I’m currently learning Swift, Java ☕
-- 💞️ I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers
+- 💞️ I’m looking to collaborate with other iOS developer 👩‍💻 and mobile app designers
 - 🎯 2021 Goals: Developing an app to be heard in the world 🌎  maybe a game
 - 📫 Connect with me : rarberimedd@gmail.com
 
